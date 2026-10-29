@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/fastfetch.svg" width="850" alt="Linux-style Fastfetch terminal with ASCII AD logo and developer information" />
+<img src="./assets/fastfetch-forest.svg" width="850" alt="Forest-green Fastfetch terminal with AD logo and developer information" />
 
 <br>
 
