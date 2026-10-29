@@ -1,32 +1,12 @@
 <div align="center">
 
-### `artful@github:~$ fastfetch`
+<img src="./assets/fastfetch.svg" width="850" alt="Linux-style Fastfetch terminal with ASCII AD logo and developer information" />
 
-</div>
-
-```yaml
-# ┌──────────────────────────────────────────────────────────┐
-# │  ●  ●  ●   artful@github: ~                         ▣  │
-# └──────────────────────────────────────────────────────────┘
-#
-#      /\         _____       Artful-DevA@github
-#     /  \       |  _  \      ─────────────────────────────
-#    / /\ \      | | \  |     User       Artful-DevA
-#   / ____ \     | |  | |     Education  TKS Student
-#  /_/    \_\    | |_/  |     Role       Developer / Maker
-#                |_____/      OS         Ubuntu / Linux
-#
-#                             Focus      Robotics · AI
-#                             Hardware   Arduino · ESP32
-#
-#  ● forest  ● sage  ● amber  ● cream
-```
-
-<div align="center">
+<br>
 
 **`artful@github:~$ ls ~/skills`**
 
-<img src="https://skillicons.dev/icons?i=python,html,css,arduino,linux,git,godot&theme=dark&perline=7" alt="Python, HTML, CSS, Arduino, Linux, Git, Godot" />
+<img src="https://skillicons.dev/icons?i=python,html,css,arduino,linux,git,godot&theme=dark&perline=7" alt="Python, HTML, CSS, Arduino, Linux, Git and Godot" />
 
 <br><br>
 
