@@ -1,15 +1,26 @@
-<div align="center">
+### `artful@github:~$ fastfetch`
 
-<img src="./assets/fastfetch.svg" alt="Artful-DevA Fastfetch-style terminal with colored ASCII logo" width="850" />
+```text
+       ██╗             ██████╗       Artful-DevA@github
+      ████╗            ██╔══██╗      ───────────────────────────
+     ██╔╗██╗           ██║  ██║      User      Artful-DevA
+    ██╔╝╚╗██╗          ██║  ██║      Role      Developer / Maker
+   ██████████╗         ██║  ██║      Education TKS Student
+  ██╔══════╗██╗        ██║  ██║      OS        Ubuntu / Linux
+ ██║      ╚╗██║        ██████╔╝      Focus     Robotics / AI
+ ╚═╝       ╚══╝        ╚═════╝       Hardware  Arduino / ESP32
 
-<br>
+  ● ● ● ● ● ● ●
+```
 
-**`artful@github:~$ ls ~/skills`**
+### `artful@github:~$ ls ~/skills`
 
-<img src="https://skillicons.dev/icons?i=python,html,css,arduino,linux,git,godot&theme=dark&perline=7" alt="Languages and tools" />
+`Python`  `HTML`  `CSS`  `Arduino`  `Linux`  `Git`  `Godot`
 
-<br><br>
+### `artful@github:~$ ls ~/projects`
 
-<sub><a href="https://github.com/Artful-DevA/EMI-Desk-Robot">EMI Desk Robot</a> · <a href="https://github.com/Artful-DevA/CamTune-Linux-Camera-Controls">CamTune</a></sub>
+[`EMI Desk Robot`](https://github.com/Artful-DevA/EMI-Desk-Robot) · [`CamTune`](https://github.com/Artful-DevA/CamTune-Linux-Camera-Controls)
 
-</div>
+```text
+artful@github:~$ █
+```
